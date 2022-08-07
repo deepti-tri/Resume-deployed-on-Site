@@ -27,6 +27,7 @@ header {
     float: right;
     margin-right: 25px;
     margin-top: 25px;
+    border-radius: 50%;
     }
 h1 {
     padding-top: 30px;
